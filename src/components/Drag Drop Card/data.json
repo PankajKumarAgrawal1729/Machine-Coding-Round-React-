@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+          "id" : 1,
+            "title": "Appwrite Nextjs and context api",
+            "cost": "Free",
+            "kind": "Course",
+            "thumbnails": {
+                "url": "https://i.ytimg.com/vi/eSYvfCoWIzA/default.jpg",
+                "width": "120px",
+                "height": 75
+            }
+        },
+        {
+          "id" : 2,
+            "title": "Nextjs componets to talk to Appwrite",
+            "cost": "Free",
+            "kind": "Course",
+            "thumbnails": {
+                "url": "https://i.ytimg.com/vi/fyEA1R4lFyQ/default.jpg",
+                "width": "120px",
+                "height": "75px"
+            }
+        },
+        {
+          "id" : 3,
+            "title": "Complete Nextjs fullstack Authentication Course",
+            "cost": "Rs. 9000/-",
+            "kind": "Course",
+            "thumbnails": {
+                "url": "https://i.ytimg.com/vi/eaQc7vbV4po/default.jpg",
+                "width": "120px",
+                "height": "75px"
+            }
+        },
+        {
+          "id" : 4,
+            "title": "Aptitude - Averages, Mixtures & Allegation",
+            "cost": "Free",
+            "kind": "Mock Test",
+            "thumbnails": {
+                "url": "https://shorturl.at/n18P3",
+                "width": "120px",
+                "height": "75px"
+            }
+        },
+        {
+          "id" : 5,
+            "title": "Aptitude - Partnership",
+            "cost": "Free",
+            "kind": "Mock Test",
+            "thumbnails": {
+                "url": "https://shorturl.at/fjUkn",
+                "width": "120px",
+                "height": "75px"
+            }
+        }
+    ]
+}
