@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import "./App";
-import { OtpForm, DragDropCard, DataTables } from "./components/index";
+import { OtpForm, DragDropCard, DataTables, Connectme } from "./components/index";
 
 import {
   createBrowserRouter,
@@ -15,6 +15,7 @@ import App from "./App";
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<App />}>
+      <Route path="" element={<Connectme />} />
       <Route path="otp-form" element={<OtpForm />} />
       <Route path="course-list" element={<DragDropCard />} />
       <Route path="batches" element={<DataTables />} />

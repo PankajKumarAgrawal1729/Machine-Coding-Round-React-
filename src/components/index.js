@@ -10,6 +10,7 @@ import Popup from "./Drag Drop Card/Popup";
 import DataTables from "./Data Tables/DataTables";
 import Table from "./Data Tables/Table";
 import Footer from "./Footer/Footer";
+import Connectme from "./ConnectMe/Connectme";
 
 export {
   Container,
@@ -23,5 +24,6 @@ export {
   Popup,
   DataTables,
   Table,
-  Footer
+  Footer,
+  Connectme
 };
